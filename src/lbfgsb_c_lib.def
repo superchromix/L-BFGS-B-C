@@ -1,9 +1,5 @@
 LIBRARY	      "lbfgsb_c_lib"
 EXPORTS       
-    lbfgsb_c @1
-    gpufit_get_last_error @2
-    gpufit_get_cuda_version @3
-    gpufit_cuda_available @4
-    gpufit_portable_interface @5
-    gpufit_cuda_interface @6
-    gpufit_constrained @7
+    setulb @1
+    timer @2
+    setulb_portable @3

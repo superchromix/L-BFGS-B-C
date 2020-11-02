@@ -1,4 +1,4 @@
-#include "lbfgsb.h"
+#include "../src/lbfgsb.h"
 
 
 /*

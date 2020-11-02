@@ -7,4 +7,6 @@ function( add_example module name )
 	set_property( TARGET ${name} PROPERTY FOLDER examples )
 endfunction()
 
-add_example(lbfgsb_c_lib driver1 driver2 driver3)
+add_example(lbfgsb_c_lib driver1)
+add_example(lbfgsb_c_lib driver2)
+add_example(lbfgsb_c_lib driver3)

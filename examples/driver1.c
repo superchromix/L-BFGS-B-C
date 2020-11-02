@@ -2,7 +2,7 @@
 /*  or "3-clause license") */
 /*  Please read attached file License.txt */
 
-#include "lbfgsb.h"
+#include "../src/lbfgsb.h"
 /*
                             DRIVER 1 in Fortran 77 
     -------------------------------------------------------------- 

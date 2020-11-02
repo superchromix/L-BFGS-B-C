@@ -1,4 +1,4 @@
-#include "lbfgsb.h"
+#include "../src/lbfgsb.h"
 
 /*
  L-BFGS-B is released under the "New BSD License" (aka “Modified BSD License” 
